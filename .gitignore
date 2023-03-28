@@ -2,9 +2,11 @@
 
 # dependencies
 /node_modules
+packages/docs/node_modules
 dist
 /.pnp
 .pnp.js
+.turbo
 
 # testing
 /coverage
