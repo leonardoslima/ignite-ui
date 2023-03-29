@@ -1,0 +1,2 @@
+import{A as t}from"./index.85a672f5.js";import"./index.f3688d3a.js";import"./iframe.0efe999e.js";import"./index.f59e6ea6.js";import"./jsx-runtime.e4771072.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/leonardoslima.png",alt:"Leonardo Lima"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.4c545538.js.map
